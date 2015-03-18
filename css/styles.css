@@ -87,17 +87,17 @@ section {
 /*tecxrures*/
 
 .pattern-1 {
-background-image: url(../img/);
+background-image: url(../img/eight_horns.png);
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */);
 }
 
 .pattern-2 {
-	background-image: url(../img/);
+	background-image: url(../img/upfeathers.png);
 
 }
 
 .pattern-3 {
-	background-image: url(../img/);
+	background-image: url(../img/swirl_pattern.png);
 
 }
 
